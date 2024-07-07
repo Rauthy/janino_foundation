@@ -7,7 +7,6 @@
   <parent>
     <groupId>org.codehaus.janino</groupId>
     <artifactId>janino-parent</artifactId>
-    <relativePath>../janino-parent</relativePath>
     <version>3.1.13-SNAPSHOT</version>
   </parent>
 
